@@ -1,7 +1,7 @@
 * [MEAN Stack](https://www.mongodb.com/mean-stack) = MongoDB, Express JS, Angular JS , Node JS
 * [MERN Stack](https://www.mongodb.com/mern-stack) = MongoDB, Express JS, React JS, Node JS
 * MEVN Stack =  MongoDB, Express JS, Vue JS, Node JS
-* Node = Node JS
+* Node = Node JS = JavaScript Runtime 
 * yarn vs npm vs npx 
 * NPM helps to install or build Modules, Packages, Libraries, Plugins, Framework(Express JS), Applications
 * JSRE = JavaScript Runtime Environment
