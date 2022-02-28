@@ -1,3 +1,4 @@
+# To Read
 * [MEAN Stack](https://www.mongodb.com/mean-stack) = MongoDB, Express JS, Angular JS , Node JS
 * [MERN Stack](https://www.mongodb.com/mern-stack) = MongoDB, Express JS, React JS, Node JS
 * MEVN Stack =  MongoDB, Express JS, Vue JS, Node JS
@@ -13,18 +14,11 @@
 * npX - Execute 
 * Webpack = Collection of Components
 * Typescript can be compiled into Javascript
+* [NPM]((https://www.npmjs.com/)) is like Maven & Node JS is like Java
+* NPM requires Node JS to be installed in local machine
+* NPM Registry, NPM CLI
 
-| #Anuglar JS | #React JS | #Node JS |
-| :---: | :---: | :---: |
-|   |  |  |
-|    |   |  |
-|     |  |  |
-|    |   |  |
-|   |   |  |
-|  |  |  |
-|   | |  |
-|    |  |  |
-|    |   |  |
+
 
 | Technology | #Definition | #Comments |
 | :---: | :---: | :---: |
@@ -39,6 +33,19 @@
 | Node JS  | Runtime Environment + JavaScript Library. JavaScript Server. Open Source JSRE that executes JavaScript out side of Browser|  |
 | NPM   | Node Package Manager |  |
 | Node JS Module   |   |  |
+
+
+| #Anuglar JS | #React JS | #Node JS |
+| :---: | :---: | :---: |
+|   |  |  |
+|    |   |  |
+|     |  |  |
+|    |   |  |
+|   |   |  |
+|  |  |  |
+|   | |  |
+|    |  |  |
+|    |   |  |
 
 # Reference
 
