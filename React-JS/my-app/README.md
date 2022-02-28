@@ -1,9 +1,10 @@
 # Prerequisite
 * Node >= 14.0.0 and npm >= 5.6
 # Quick Start
-* npx create-react-app my-app
+* $ npx create-react-app my-app
 * cd my-app
-* npm start
+* $ npm install react-scripts
+* $ npm start
 * Then open http://localhost:3000/ to see your app.
 
 # Technology Stack:
