@@ -1,3 +1,5 @@
+# Definition
+* React is a JavaScript library for creating user interfaces
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
 * [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
