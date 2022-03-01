@@ -1,5 +1,8 @@
 # Definition
 
+# To Read
+* JavaScript Libraries are Axios, Formik, React Router
+
 # Terminology
 
 # Tutorial
