@@ -36,3 +36,4 @@
 | package.json & package-lock.json| pom.xml |
 | index.js entry point | Spring boot entry point|
 | "node_modules" folder | "lib" folder |
+| "npm" command | "mvn" command |
