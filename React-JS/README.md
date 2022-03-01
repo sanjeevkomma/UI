@@ -4,6 +4,7 @@
 # To Read
 * React JS application can be written in [Typescript](https://www.typescriptlang.org/) OR Javascript
 * Typescript code can be compiled into Javascript 
+* node server or webpack dev server is bundled in Node JS software installation
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
@@ -21,7 +22,7 @@
 * $ npx create-react-app your-app-name --template typescript
 * $ yarn create react-app your-app-name --template typescript
 * $ npx create-react-app todo-app
-* $ npm start === Starts the development server
+* $ npm start === Starts the development server ( node server or webpack dev server )
 * $ npm run build === Bundles the app into static files for production
 * $ npm test === Starts the test runner
 * $ npm run eject === Removes this tool and copies build dependencies, configuration files
