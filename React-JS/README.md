@@ -20,6 +20,7 @@
 * $ npm install react-app === To install / download dependencies of react app
 * $ npx create-react-app your-app-name --template typescript
 * $ yarn create react-app your-app-name --template typescript
+* $ npx create-react-app todo-app
 
 # Tutorial
 * [Chrome Restlet Client Plugin](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
@@ -64,6 +65,11 @@
 2. Forms
 3. RestAPICalls
 4. Authentication
+
+# React Packages
+1. react
+2. react-dom
+3. react-scripts with cra-template
 
 # Image
 1. Archi
