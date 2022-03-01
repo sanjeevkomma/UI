@@ -38,7 +38,7 @@
 
 
 | Type | #Anuglar JS | #React JS | 
-|  :---: | :---: | :---: | :---: |
+|  :---: | :---: | :---: | 
 | DOM |  Regular DOM |Virtual DOM  | 
 |App Architecture | MVC| Flux| 
 
