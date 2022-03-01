@@ -32,7 +32,7 @@
 | Express JS   | Server Side Javascript Framework that runs on JSRE  |  |
 | Jest   | Javascript Testing Framework by Facebook  |  |
 | React Native |  |  |
-| Node JS  | Runtime Environment + JavaScript Library. JavaScript Server. Open Source JSRE that executes JavaScript out side of Browser|  |
+| Node JS  | Runtime Environment + JavaScript Library. JavaScript Server ( node server or webpack dev server ). Open Source JSRE that executes JavaScript out side of Browser|  |
 | NPM   | Node Package Manager |  |
 | Node JS Module   |   |  |
 
