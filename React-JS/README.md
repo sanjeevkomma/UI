@@ -50,7 +50,7 @@
 | :---: | :---: | 
 | Node JS   | Spring Boot | 
 | NPM | Maven / Gradle |
-| NPM Registry | Maven Repo|
+| [NPM Registry](https://www.npmjs.com/) | [Maven Repo](https://mvnrepository.com/)|
 | package.json & package-lock.json| pom.xml |
 | "index.js" entry point | Spring boot class entry point|
 | "node_modules" folder | ".m2" folder / "lib" folder |
