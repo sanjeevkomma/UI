@@ -12,6 +12,7 @@
 # Commands
 * $ npm init === To intialize package.json
 * $ npm install jquery === To install / download dependencies of jquery
+* $ npm install react-app === To install / download dependencies of react app
 * $ npx create-react-app your-app-name --template typescript
 * $ yarn create react-app your-app-name --template typescript
 * $ 
@@ -37,3 +38,8 @@
 | "index.js" entry point | Spring boot entry point|
 | "node_modules" folder | "lib" folder |
 | "npm" command | "mvn" command |
+| "npm install" command  | "mvn install" command |
+| | |
+| | |
+| | |
+| | |
