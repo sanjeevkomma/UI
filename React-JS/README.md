@@ -1,6 +1,7 @@
 # Definition
 * React is a JavaScript library for creating user interfaces
-* index.js is the root file of React App
+* index.js is the entry point ( root file ) of React App
+* "node_modules" folder is like "lib" folder in Java application
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
 * [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
@@ -10,7 +11,7 @@
 * [VS Code IDE](https://code.visualstudio.com/#alt-downloads)
 # Commands
 * $ npm init === To intialize package.json
-* $ npm install jquery === To install jQuery
+* $ npm install jQuery === To install jQuery
 * $ npx create-react-app your-app-name --template typescript
 * $ yarn create react-app your-app-name --template typescript
 * $ 
@@ -27,3 +28,12 @@
 * Library
 * Framework
 
+| Technology | #Definition | 
+| :---: | :---: | 
+| Java Script | Java |
+| Node JS   | Spring Boot | 
+| NPM | Maven / Gradle |
+| NPM Registry | Maven Repo|
+| package.json & package-lock.json| pom.xml |
+| index.js entry point | Spring boot entry point|
+| | |
