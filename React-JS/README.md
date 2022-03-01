@@ -51,11 +51,11 @@
 | NPM | Maven / Gradle |
 | NPM Registry | Maven Repo|
 | package.json & package-lock.json| pom.xml |
-| "index.js" entry point | Spring boot entry point|
+| "index.js" entry point | Spring boot class entry point|
 | "node_modules" folder | ".m2" folder / "lib" folder |
 | "npm" command | "mvn" command |
 | "npm install" command  | "mvn install" command |
-| | |
+| packages like "react", "react-dom" etc | packages like "java.lang", "java.util" etc|
 | | |
 | | |
 | | |
@@ -64,6 +64,8 @@
 1. JSX
 2. State
 3. Props
+4. Class
+5. Function
 
 # React Features
 1. Routing
