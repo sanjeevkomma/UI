@@ -37,17 +37,10 @@
 | Node JS Module   |   |  |
 
 
-| #Anuglar JS | #React JS | #Node JS |
-| :---: | :---: | :---: |
-|   |  |  |
-|    |   |  |
-|     |  |  |
-|    |   |  |
-|   |   |  |
-|  |  |  |
-|   | |  |
-|    |  |  |
-|    |   |  |
+| Type | #Anuglar JS | #React JS | #Node JS |
+|  :---: | :---: | :---: | :---: |
+| DOM |  Regular DOM |Virtual DOM  |  |
+
 
 # Reference
 
