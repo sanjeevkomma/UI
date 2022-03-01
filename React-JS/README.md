@@ -1,5 +1,5 @@
 # Definition
-* React is a JavaScript library for creating user interfaces
+* React is a JavaScript library / front-end View Framework for creating user interfaces
 
 # To Read
 * React JS application can be written in [Typescript](https://www.typescriptlang.org/) OR Javascript
@@ -64,3 +64,6 @@
 2. Forms
 3. RestAPICalls
 4. Authentication
+
+# Image
+1. 
