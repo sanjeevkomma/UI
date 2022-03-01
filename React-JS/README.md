@@ -8,8 +8,11 @@
 * [Node JS download](https://nodejs.org/en/)
 * [VS Code IDE](https://code.visualstudio.com/#alt-downloads)
 # Commands
-* npx create-react-app your-app-name --template typescript
-* yarn create react-app your-app-name --template typescript
+* $ npm init === To intialize package.json
+* $ npm install jquery === To install jQuery
+* $ npx create-react-app your-app-name --template typescript
+* $ yarn create react-app your-app-name --template typescript
+* $ 
 # To Read
 * React JS application can be written in [Typescript](https://www.typescriptlang.org/) OR Javascript
 * [5 Reasons to Use TypeScript with React](https://blog.bitsrc.io/5-strong-reasons-to-use-typescript-with-react-bc987da5d907)
