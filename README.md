@@ -37,9 +37,10 @@
 | Node JS Module   |   |  |
 
 
-| Type | #Anuglar JS | #React JS | #Node JS |
+| Type | #Anuglar JS | #React JS | 
 |  :---: | :---: | :---: | :---: |
-| DOM |  Regular DOM |Virtual DOM  |  |
+| DOM |  Regular DOM |Virtual DOM  | 
+|App Architecture | MVC| Flux| 
 
 
 # Reference
