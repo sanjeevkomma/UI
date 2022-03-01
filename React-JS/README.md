@@ -55,5 +55,12 @@
 | | |
 
 # React Components
+1. JSX
+2. State
+3. Props
 
-# React Routing
+# React Features
+1. Routing
+2. Forms
+3. RestAPICalls
+4. Authentication
