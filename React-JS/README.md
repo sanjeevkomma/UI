@@ -11,7 +11,7 @@
 * [VS Code IDE](https://code.visualstudio.com/#alt-downloads)
 # Commands
 * $ npm init === To intialize package.json
-* $ npm install jQuery === To install jQuery
+* $ npm install jquery === To install / download dependencies of jquery
 * $ npx create-react-app your-app-name --template typescript
 * $ yarn create react-app your-app-name --template typescript
 * $ 
@@ -34,6 +34,6 @@
 | NPM | Maven / Gradle |
 | NPM Registry | Maven Repo|
 | package.json & package-lock.json| pom.xml |
-| index.js entry point | Spring boot entry point|
+| "index.js" entry point | Spring boot entry point|
 | "node_modules" folder | "lib" folder |
 | "npm" command | "mvn" command |
