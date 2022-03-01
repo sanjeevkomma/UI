@@ -1,5 +1,6 @@
 # Definition
 * React is a JavaScript library for creating user interfaces
+* index.js is the root file of React App
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
 * [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
