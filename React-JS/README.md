@@ -36,7 +36,7 @@
 | NPM Registry | Maven Repo|
 | package.json & package-lock.json| pom.xml |
 | "index.js" entry point | Spring boot entry point|
-| "node_modules" folder | ".m2" folder / local mvn repo |
+| "node_modules" folder | ".m2" folder / "lib" folder |
 | "npm" command | "mvn" command |
 | "npm install" command  | "mvn install" command |
 | | |
