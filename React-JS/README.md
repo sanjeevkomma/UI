@@ -21,6 +21,10 @@
 * $ npx create-react-app your-app-name --template typescript
 * $ yarn create react-app your-app-name --template typescript
 
+# Tutorial
+* [Chrome Restlet Client Plugin](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
+* [Chrome React DevTools Plugin](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
 # Reference
 * [5 Reasons to Use TypeScript with React](https://blog.bitsrc.io/5-strong-reasons-to-use-typescript-with-react-bc987da5d907)
 * [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
