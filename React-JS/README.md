@@ -28,9 +28,8 @@
 * Library
 * Framework
 
-| Technology | #Definition | 
+| #Java Script | #Java | 
 | :---: | :---: | 
-| Java Script | Java |
 | Node JS   | Spring Boot | 
 | NPM | Maven / Gradle |
 | NPM Registry | Maven Repo|
