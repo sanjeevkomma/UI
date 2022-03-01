@@ -64,8 +64,8 @@
 1. JSX
 2. State
 3. Props
-4. Class
-5. Function
+4. Class Component ( for ex : class App extends Component )
+5. Function Component ( for ex : function App() )
 
 # React Features
 1. Routing
