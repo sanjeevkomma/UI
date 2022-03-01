@@ -14,9 +14,11 @@
 * npX - Execute 
 * Webpack = Collection of Components
 * Typescript can be compiled into Javascript
-* [NPM](https://www.npmjs.com/) is like Maven & Node JS is like Java
+* [NPM](https://www.npmjs.com/) is like Maven / Gradle & Node JS is like Java
 * NPM requires Node JS to be installed in local machine
 * NPM Registry, NPM CLI
+* NPM is Package Manager for Java Script
+* pom.xml VS package.json or package-lock.json
 
 
 
