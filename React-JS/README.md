@@ -45,6 +45,7 @@
 * Module
 * Library
 * Framework
+* JSX = JavaScript Extension
 
 # Similarity Table
 | #Java Script | #Java | 
@@ -76,9 +77,11 @@
 
 # React Components
 Component examples are Header, Footer, Page , Menu , Todo etc in web application
-| #Component | #Purpose | 
+| #Component | #Description | 
 | :---: | :---: | 
-| JSX   |  | 
+| View   | JSX or JS |
+| Logic | written in Javascript|
+| Styling| CSS|
 | App |Its root component for React application |
 |State | |
 |Props | |
