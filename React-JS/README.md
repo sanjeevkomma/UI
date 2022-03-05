@@ -84,7 +84,7 @@
 # React Packages
 | #Package | #Purpose | 
 | :---: | :---: | 
-| react   | To define title of React App |
+| react   | Its root for Web app & Native app |
 |react-dom | Used for developing web applications|
 |react-native |Used for developing Native apps ( iPhone & Android ) |
 |react-scripts |It provides npm start, npm run etc |
