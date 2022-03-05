@@ -57,9 +57,15 @@
 | "npm" command | "mvn" command |
 | "npm install" command  | "mvn install" command |
 | packages like "react", "react-dom" etc | packages like "java.lang", "java.util" etc|
-| | |
-| | |
-| | |
+
+# Important files in React JS app
+| #File | #Purpose | 
+| :---: | :---: | 
+| index.html   | To define title of App | 
+| App.js |  |
+| index.js |  |
+| manifest.json |  |
+| package.json |  |
 
 # React Components
 1. JSX
