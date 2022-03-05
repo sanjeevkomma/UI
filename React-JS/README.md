@@ -83,8 +83,8 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 | Logic | written in Javascript|
 | Styling| CSS|
 | App |Its root component for React application |
-|State | |
-|Props | |
+|State | Internal Data Store|
+|Props | Pass Data |
 |Class Component | for ex : class App extends Component|
 |Function Component | for ex : function App()|
 
