@@ -71,10 +71,13 @@
 | manifest.json |  |
 | package.json | To specifiy the dependencies for React App |
 
+# Flow
+* index.js ---> index.html & App.js ---> 
+
 # React Components
 | #Component | #Purpose | 
 | :---: | :---: | 
-| JSX   | To define title of React App | 
+| JSX   |  | 
 | App | |
 |State | |
 |Props | |
