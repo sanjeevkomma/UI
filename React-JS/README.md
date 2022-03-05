@@ -75,7 +75,7 @@
 * index.js ---> index.html & App.js ---> 
 
 # React Components
-* Component examples are Header, Footer, Page , Menu , Todo etc in web application
+Component examples are Header, Footer, Page , Menu , Todo etc in web application
 | #Component | #Purpose | 
 | :---: | :---: | 
 | JSX   |  | 
