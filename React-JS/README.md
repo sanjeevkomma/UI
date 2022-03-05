@@ -85,8 +85,8 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 | App |Its root component for React application |
 |State | Internal Data Store|
 |Props | Pass Data |
-|Class Component | for ex : class App extends Component|
-|Function Component | for ex : function App()|
+|Class | for ex : class App extends Component|
+|Function | for ex : function App()|
 
 
 # React Features
