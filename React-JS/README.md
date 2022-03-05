@@ -64,16 +64,23 @@
 | :---: | :---: | 
 | index.html   | To define title of React App | 
 | App.js |  Its home file for React App|
-| index.js |  |
+| App.test.js |  Its test file for unit testing |
+| App.css |  Styling for App component |
+| index.js | entry point file for React Application |
+| index.css | Styling for entire application |
 | manifest.json |  |
 | package.json | To specifiy the dependencies for React App |
 
 # React Components
-1. JSX
-2. State
-3. Props
-4. Class Component ( for ex : class App extends Component )
-5. Function Component ( for ex : function App() )
+| #Component | #Purpose | 
+| :---: | :---: | 
+| JSX   | To define title of React App | 
+| App | |
+|State | |
+|Props | |
+|Class Component | for ex : class App extends Component|
+|Function Component | for ex : function App()|
+
 
 # React Features
 1. Routing
