@@ -5,6 +5,7 @@
 * React JS application can be written in [Typescript](https://www.typescriptlang.org/) OR Javascript
 * Typescript code can be compiled into Javascript 
 * node server or webpack dev server is bundled in Node JS software installation
+* React JS can be used for both developing Web Applicaton & Native Applications ( iPhone & Android )
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
@@ -65,7 +66,7 @@
 | App.js |  Its home file for React App|
 | index.js |  |
 | manifest.json |  |
-| package.json |  |
+| package.json | To specifiy the dependencies for React App |
 
 # React Components
 1. JSX
