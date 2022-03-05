@@ -79,7 +79,7 @@
 Component examples are Header, Footer, Page , Menu , Todo etc in web application
 | #Component | #Description | 
 | :---: | :---: | 
-| View   | JSX or JS |
+| View   | written in JSX or JS |
 | Logic | written in Javascript|
 | Styling| CSS|
 | App |Its root component for React application |
