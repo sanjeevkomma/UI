@@ -54,7 +54,7 @@
 | [NPM Registry](https://www.npmjs.com/) | [Maven Repo](https://mvnrepository.com/)|
 | package.json & package-lock.json| pom.xml |
 | "index.js" entry point | Spring boot class entry point|
-| "node_modules" folder | ".m2" folder / "lib" folder |
+| "node_modules" folder | ".m2" folder OR "lib" folder |
 | "npm" command | "mvn" command |
 | "npm install" command  | "mvn install" command |
 | packages like "react", "react-dom" etc | packages like "java.lang", "java.util" etc|
