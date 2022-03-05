@@ -75,11 +75,11 @@
 * index.js ---> index.html & App.js ---> 
 
 # React Components
-Component examples are Header, Footer, Page , Menu etc in web application
+* Component examples are Header, Footer, Page , Menu , Todo etc in web application
 | #Component | #Purpose | 
 | :---: | :---: | 
 | JSX   |  | 
-| App | |
+| App |Its root component for React application |
 |State | |
 |Props | |
 |Class Component | for ex : class App extends Component|
@@ -104,6 +104,9 @@ Component examples are Header, Footer, Page , Menu etc in web application
 
 
 # Image
-1. Archi
+1. Architrcture
 * ![image](https://user-images.githubusercontent.com/7721150/156160629-056f94f0-6684-4c1b-bb57-3ae78a87f34f.png)
+2. Component
+* ![image](https://user-images.githubusercontent.com/7721150/156894556-4fb37d4b-bcb8-4162-83b6-2780f1bff4e9.png)
+
 
