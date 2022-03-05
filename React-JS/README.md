@@ -82,10 +82,15 @@
 4. Authentication
 
 # React Packages
-1. react
-2. react-dom === Used for developing web applications
-3. react-native === Used for developing Native apps ( iPhone & Android )
-4. react-scripts with cra-template
+| #Package | #Purpose | 
+| :---: | :---: | 
+| react   | To define title of React App |
+|react-dom | Used for developing web applications|
+|react-native |Used for developing Native apps ( iPhone & Android ) |
+|react-scripts |It provides npm start, npm run etc |
+| | |
+| | |
+
 
 # Image
 1. Archi
