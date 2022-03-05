@@ -83,8 +83,9 @@
 
 # React Packages
 1. react
-2. react-dom
-3. react-scripts with cra-template
+2. react-dom === Used for developing web applications
+3. react-native === Used for developing Native apps ( iPhone & Android )
+4. react-scripts with cra-template
 
 # Image
 1. Archi
