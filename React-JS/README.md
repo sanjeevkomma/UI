@@ -61,8 +61,8 @@
 # Important files in React JS app
 | #File | #Purpose | 
 | :---: | :---: | 
-| index.html   | To define title of App | 
-| App.js |  |
+| index.html   | To define title of React App | 
+| App.js |  Its home file for React App|
 | index.js |  |
 | manifest.json |  |
 | package.json |  |
