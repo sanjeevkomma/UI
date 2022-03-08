@@ -7,6 +7,8 @@
 
 # Installation
 * ![image](https://user-images.githubusercontent.com/7721150/157178352-caea8815-bf71-455a-b7f2-5a6027eaa653.png)
+* ![image](https://user-images.githubusercontent.com/7721150/157179748-3fb00528-a268-4ee9-84e8-9f7531cba717.png)
+
 
 
 # Tutorial
