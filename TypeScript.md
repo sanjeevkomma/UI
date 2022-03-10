@@ -1,9 +1,10 @@
 # To Read
-* [TypeScript Installation](https://www.javatpoint.com/typescript-installation)
 * [TypeScript First Program](https://www.javatpoint.com/typescript-first-program)
 * TypeScript supports Static typing, Strongly type, Modules, Optional Parameters, classes, interfaces, inheritance, generics
 * [JavaScript VS TypeScript](https://www.javatpoint.com/javascript-vs-typescript)
 * TSC = TypeScript Compiler
+# Installation
+* [TypeScript Installation](https://www.javatpoint.com/typescript-installation)
 # Text Editors with TypeScript Support
 * Visual Studio Code
 * Official Free Plugin for Sublime Text.
