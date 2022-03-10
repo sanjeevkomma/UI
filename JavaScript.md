@@ -14,6 +14,7 @@
 # Tutorial
 * [Javascript ES6 - w3schools](https://www.w3schools.com/js/js_es6.asp)
 * [JavaScript Tutorial For Beginners](https://www.youtube.com/watch?v=6TZdD-FR6CY)
+* [Javascript Official](https://www.javascript.com/)
 
 # Reference
 
