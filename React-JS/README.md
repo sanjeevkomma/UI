@@ -6,6 +6,9 @@
 * Typescript code can be compiled into Javascript 
 * node server or webpack dev server is bundled in Node JS software installation
 * React JS can be used for both developing Web Applicaton & Native Applications ( iPhone & Android )
+* Class component has "State" feature, where as Function component does not have
+* JSX is an HTML-like syntax, that helps to write HTML in React
+* Babel is a JavaScript compiler
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
