@@ -5,4 +5,4 @@
 
 
 # ToRead
-* 
+* Redux is Cross-platform software, written in TyeScript
