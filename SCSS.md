@@ -1,0 +1,1 @@
+* [Difference between CSS and SCSS](https://www.javatpoint.com/css-vs-scss#:~:text=Key%20Differences%20between%20the%20CSS%20and%20SCSS&text=CSS%20is%20a%20style%20language,more%20expressive%20than%20the%20CSS.)
