@@ -1,5 +1,7 @@
 # Definition
 * React is a JavaScript library / front-end View Framework for creating user interfaces
+* [React Versions](https://reactjs.org/versions/)
+* [React Github](https://github.com/facebook/react/releases)
 
 # To Read
 * React JS application can be written in [Typescript](https://www.typescriptlang.org/) OR Javascript
