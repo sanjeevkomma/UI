@@ -1,4 +1,6 @@
 import  React, { Component } from 'react';
+import { FirstComponent ,  ThirdComponent } from './components/learning-examples/ComponentExamples';
+import SecondComponent from './components/learning-examples/SecondComponent';
 import logo from './logo.svg';
 import './App.css';
  
@@ -20,8 +22,10 @@ class App123 extends Component {
           >
             Learn React
         </a>
+        
         <FirstComponent></FirstComponent>
         <SecondComponent></SecondComponent>
+        <ThirdComponent></ThirdComponent>
         </header>
         
       </div>
@@ -30,20 +34,5 @@ class App123 extends Component {
 }
 
 
-class FirstComponent extends Component {
-  render() {
-    return (
-      <div className="FirstComponent"> FirstComponent  Class </div>
-    );
-  }
-}
-
-function SecondComponent() {
-  
-    return (
-      <div className="SecondComponent"> SecondComponent Function </div>
-    );
-  
-}
 
 export default App123;
