@@ -11,6 +11,10 @@
 * Class component has "State" feature, where as Function component does not have
 * JSX is an HTML-like syntax, that helps to write HTML in React
 * Babel is a JavaScript compiler
+* In React, "App" is parent component and all others are child components. Parent component will call Child components.
+* In React, every component ( class , function etc ) can be written in separate file ( .js file / .jsx ) as a module 
+* Every Class component should extend "Component" explicitly
+* "default export of class " can use directly where as all other exports , we need to put in '{ }' in import statement
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
