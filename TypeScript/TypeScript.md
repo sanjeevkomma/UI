@@ -1,6 +1,6 @@
 # To Read
 * [TypeScript First Program](https://www.javatpoint.com/typescript-first-program)
-* TypeScript supports Static typing, Strongly type, Modules, Optional Parameters, Classes, Interfaces, Inheritance, Generics
+* TypeScript supports Static typing, Strongly type, Modules, Optional Parameters, classes, interfaces, inheritance, generics
 * [JavaScript VS TypeScript](https://www.javatpoint.com/javascript-vs-typescript)
 * TSC = TypeScript Compiler
 # Installation
