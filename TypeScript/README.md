@@ -11,6 +11,7 @@
 * The latest version of WebStorm
 * It also supports in [Vim](https://www.javatpoint.com/vi-editor), [Atom](https://www.javatpoint.com/atom-python), Emacs
 # Reference
+* [TypeScript W3Schools](https://www.w3schools.com/typescript/index.php)
 * [TypeScript Official](https://www.typescriptlang.org/)
 * [TypeScript Tutorial JavaTPoint](https://www.javatpoint.com/typescript-tutorial)
 # Images
