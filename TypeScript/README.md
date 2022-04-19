@@ -5,6 +5,12 @@
 * TSC = TypeScript Compiler
 # Installation
 * [TypeScript Installation](https://www.javatpoint.com/typescript-installation)
+
+* $ npm install typescript --save-dev         //As dev dependency  
+* $ npm install typescript -g                      //Install as a global module  
+* $ npm install typescript@latest -g          //Install latest if you have an older version  
+
+
 # Text Editors with TypeScript Support
 * Visual Studio Code
 * Official Free Plugin for Sublime Text.
