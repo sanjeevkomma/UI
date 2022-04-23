@@ -1,5 +1,8 @@
-function greeter(person) {  
-    return "Hello, " + person;  
+function greeter(userName) {
+
+    return "Hello, " + userName;  
 }  
-let user = 'Java Script User';  
-console.log(greeter(user));  
+
+let user = 'Java SSSSS User'; 
+
+console.log( greeter(user) );  
