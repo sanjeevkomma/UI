@@ -2,6 +2,7 @@ import  React, { Component } from 'react';
 import { FirstComponent  } from './components/learning-examples/ComponentExamples';
 import SecondComponent from './components/learning-examples/SecondComponent';
 import ThirdComponent from './components/learning-examples/ThirdComponent';
+import Counter from './components/counter/Counter';
 import logo from './logo.svg';
 import './App.css';
  
@@ -9,6 +10,17 @@ class App123 extends Component {
   render() {
     return (
       <div className="App456">
+        <Counter></Counter>
+        
+      </div>
+    );
+  }
+}
+
+class LearningComponents extends Component {
+  render() {
+    return (
+      <div className="LearningComponents">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -32,8 +44,7 @@ class App123 extends Component {
       </div>
     );
   }
+
 }
-
-
 
 export default App123;
