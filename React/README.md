@@ -10,6 +10,7 @@
 * React JS can be used for both developing Web Applicaton & Native Applications ( iPhone & Android )
 * Class component has "State" feature, where as Function component does not have
 * JSX is an HTML-like syntax, that helps to write HTML in React
+* JSX = Its a syntax extension to Java Script
 * Babel is a JavaScript compiler
 * In React, "App" is parent component and all others are child components. Parent component will call Child components.
 * In React, every component ( class , function etc ) can be written in separate file ( .js file / .jsx ) as a module 
@@ -19,6 +20,7 @@
 * Javascript has internal representation of the page called DOM
 * setState() funcation actually does the merging of states
 * var = Global Scope and let = Block Scope
+* const = It cannot be declared without initialization
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
