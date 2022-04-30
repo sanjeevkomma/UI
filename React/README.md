@@ -15,6 +15,8 @@
 * In React, every component ( class , function etc ) can be written in separate file ( .js file / .jsx ) as a module 
 * Every Class component should extend "Component" explicitly
 * "default export of class " can use directly where as all other exports , we need to put in '{ }' in import statement
+* VDOM ( Virtual DOM ) is the react representation of DOM in-memory
+* Javascript has internal representation of the page called DOM
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
@@ -120,7 +122,7 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 * ![image](https://user-images.githubusercontent.com/7721150/156160629-056f94f0-6684-4c1b-bb57-3ae78a87f34f.png)
 2. Component
 * ![image](https://user-images.githubusercontent.com/7721150/156894556-4fb37d4b-bcb8-4162-83b6-2780f1bff4e9.png)
-3. Virtual DOM
+3. Virtual DOM ( Document Object Model ) 
 * ![image](https://user-images.githubusercontent.com/7721150/166091739-72bcb6b5-0999-4a65-8a9e-aab86feef8d0.png)
 
 
