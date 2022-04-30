@@ -4,3 +4,5 @@
 
 # Syntax
 * functionName = ( args ) => { function body } 
+* ![image](https://user-images.githubusercontent.com/7721150/166092889-87fa1d31-e243-4803-900c-fe43aabc312c.png)
+
