@@ -11,6 +11,7 @@
 * Class component has "State" feature, where as Function component does not have
 * JSX is an HTML-like syntax, that helps to write HTML in React
 * JSX = Its a syntax extension to Java Script
+* JSX = JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in Reac
 * Babel is a JavaScript compiler
 * In React, "App" is parent component and all others are child components. Parent component will call Child components.
 * In React, every component ( class , function etc ) can be written in separate file ( .js file / .jsx ) as a module 
@@ -61,6 +62,7 @@
 * Library
 * Framework
 * JSX = JavaScript Extension
+* JSX = JavaScript XML
 
 # Similarity Table
 | #Java Script | #Java | 
