@@ -67,19 +67,19 @@ class CounterButton extends Component  {
 
      constructor() {
         super();
-        this.state = {
-            counter : 0,
-            secondCounter : 100,
-            thirdCounter : 300
-        }
+        // this.state = {
+        //     counter : 0,
+        //     secondCounter : 100,
+        //     thirdCounter : 300
+        // }
         // this.increment = this.increment.bind(this); // This is not needed if we use 'arrow' functions
      }
 
     render () {
         return (
             <div className="CounterButton"> 
-                <button onClick={this.increment}>+{this.props.by}</button>
-                <button onClick={this.decrement}>-{this.props.by}</button>
+                <button onClick={()=>this.props.incrementMethod(this.props.by)}>+{this.props.by}</button>
+                <button onClick={()=>this.props.decrementMethod(this.props.by)}>-{this.props.by}</button>
                 {/*<span className='count'>{this.state.counter}</span> */}
                 {/* <span className='count'>{this.state.secondCounter}</span> */}
                {/* <span className='count'>{this.state.thirdCounter}</span> */}
@@ -88,27 +88,27 @@ class CounterButton extends Component  {
 
 }
 
-     increment = () =>  { // increment function to Update State Counter ++ 
-       console.log("increment"); 
-      // this.state.counter ++; 
-       this.setState( {
-            counter : this.state.counter + this.props.by ,
-            secondCounter : this.state.secondCounter + 2
-            }
-       );
-       this.props.incrementMethod(this.props.by);
-    }
+    //  increment = () =>  { // increment function to Update State Counter ++ 
+    //    console.log("increment"); 
+    //   // this.state.counter ++; 
+    //    this.setState( {
+    //         counter : this.state.counter + this.props.by ,
+    //         secondCounter : this.state.secondCounter + 2
+    //         }
+    //    );
+    //    this.props.incrementMethod(this.props.by);
+    // }
 
-    decrement = () =>  { // increment function to Update State Counter ++ 
-        console.log("decrement"); 
-       // this.state.counter ++; 
-        this.setState( {
-             counter : this.state.counter - this.props.by ,
-             //secondCounter : this.state.secondCounter + 2
-             }
-        );
-        this.props.decrementMethod(this.props.by);
-     }
+    // decrement = () =>  { // increment function to Update State Counter ++ 
+    //     console.log("decrement"); 
+    //    // this.state.counter ++; 
+    //     this.setState( {
+    //          counter : this.state.counter - this.props.by ,
+    //          //secondCounter : this.state.secondCounter + 2
+    //          }
+    //     );
+    //     this.props.decrementMethod(this.props.by);
+    //  }
 }
 
 // ES6 workaround provided by React to initialize the default value for Props
