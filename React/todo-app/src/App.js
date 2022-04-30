@@ -11,7 +11,6 @@ class App123 extends Component {
     return (
       <div className="App456">
         <Counter></Counter>
-        
       </div>
     );
   }
