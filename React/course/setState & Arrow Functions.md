@@ -3,6 +3,7 @@
 * arrow ( => ) function prevents the need of binding
 * arrow ( => ) functions are like lamba expression in Java
 * setState() function will merge state with existing stage
+* setState() function will do merge of the new State values with the existing State
 
 # Syntax
 * functionName = ( args ) => { function body } 
