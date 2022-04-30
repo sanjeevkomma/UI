@@ -18,6 +18,7 @@
 * VDOM ( Virtual DOM ) is the react representation of DOM in-memory
 * Javascript has internal representation of the page called DOM
 * setState() funcation actually does the merging of states
+* var = Global Scope and let = Block Scope
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
