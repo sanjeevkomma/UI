@@ -124,6 +124,8 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 * ![image](https://user-images.githubusercontent.com/7721150/156894556-4fb37d4b-bcb8-4162-83b6-2780f1bff4e9.png)
 3. Virtual DOM ( Document Object Model ) 
 * ![image](https://user-images.githubusercontent.com/7721150/166091739-72bcb6b5-0999-4a65-8a9e-aab86feef8d0.png)
+4. Diff between VDOM
+* ![image](https://user-images.githubusercontent.com/7721150/166092121-5bd3d51a-66ab-40fe-b30a-23a7c1986587.png)
 
 
 
