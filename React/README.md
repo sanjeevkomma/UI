@@ -120,5 +120,8 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 * ![image](https://user-images.githubusercontent.com/7721150/156160629-056f94f0-6684-4c1b-bb57-3ae78a87f34f.png)
 2. Component
 * ![image](https://user-images.githubusercontent.com/7721150/156894556-4fb37d4b-bcb8-4162-83b6-2780f1bff4e9.png)
+3. Virtual DOM
+* ![image](https://user-images.githubusercontent.com/7721150/166091739-72bcb6b5-0999-4a65-8a9e-aab86feef8d0.png)
+
 
 
