@@ -17,6 +17,7 @@
 * "default export of class " can use directly where as all other exports , we need to put in '{ }' in import statement
 * VDOM ( Virtual DOM ) is the react representation of DOM in-memory
 * Javascript has internal representation of the page called DOM
+* setState() funcation actually does the merging of states
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
@@ -125,7 +126,7 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 3. Virtual DOM ( Document Object Model ) 
 * ![image](https://user-images.githubusercontent.com/7721150/166091739-72bcb6b5-0999-4a65-8a9e-aab86feef8d0.png)
 4. Diff between VDOM
-* ![image](https://user-images.githubusercontent.com/7721150/166092121-5bd3d51a-66ab-40fe-b30a-23a7c1986587.png)
+* ![image](https://user-images.githubusercontent.com/7721150/166092203-0a56f349-d8f2-4231-ba3e-0b9139286026.png)
 
 
 
