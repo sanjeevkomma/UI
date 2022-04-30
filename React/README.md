@@ -134,7 +134,8 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 4. Diff between VDOM
 * ![image](https://user-images.githubusercontent.com/7721150/166092203-0a56f349-d8f2-4231-ba3e-0b9139286026.png)
 5. React Components & Features
-* ![image](https://user-images.githubusercontent.com/7721150/166104549-de7e5980-53df-435f-972e-2067260dadd6.png)
+* ![image](https://user-images.githubusercontent.com/7721150/166104584-d24f6f08-c3cc-40b8-b5da-144a327cf7ce.png)
+
 
 
 
