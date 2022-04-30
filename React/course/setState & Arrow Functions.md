@@ -1,6 +1,7 @@
 # To Read
 * with arrow ( => ) functions , we dont need to binding in React
 * arrow ( => ) function prevents the need of binding
+* arrow ( => ) functions are like lamba expression in Java
 
 # Syntax
 * functionName = ( args ) => { function body } 
