@@ -14,7 +14,9 @@ class Counter extends Component  {
 
         this.state = {
 
-            counter : 0
+            counter : 0,
+            secondCounter : 100,
+            thirdCounter : 300
         }
 
         this.increment = this.increment.bind(this);
@@ -29,13 +31,15 @@ class Counter extends Component  {
              <button onClick={this.increment}>+1</button>
          
              <span className='count'>{this.state.counter}</span>
+             <span className='count'>{this.state.secondCounter}</span>
+             <span className='count'>{this.state.thirdCounter}</span>
          
          </div>
     )
 
 }
 
-     increment() { // Update State Counter++ 
+     increment() { // increment function to Update State Counter ++ 
 
        console.log("increment"); 
 
@@ -43,7 +47,8 @@ class Counter extends Component  {
 
        this.setState( {
 
-            counter : this.state.counter + 1 
+            counter : this.state.counter + 1 ,
+            secondCounter : this.state.secondCounter + 2
 
             }
 
