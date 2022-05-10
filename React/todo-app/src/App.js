@@ -10,7 +10,7 @@ class App123 extends Component {
   render() {
     return (
       <div className="App456">
-        <Counter></Counter>
+       {/*<Counter></Counter>*/}
       </div>
     );
   }
