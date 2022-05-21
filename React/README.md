@@ -44,6 +44,9 @@
 * $ npm test === Starts the test runner
 * $ npm run eject === Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can’t go back!
+* $ npm cache clean -f  
+* $ npm install -g n 
+ 
 
 # Tutorial
 * [Chrome Restlet Client Plugin](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
