@@ -98,23 +98,26 @@
 
 # React Components
 Component examples are Header, Footer, Page , Menu , Todo etc in web application
-| #Component | #Description | 
-| :---: | :---: | 
-| View   | written in JSX or JS |
-| Logic | written in Javascript|
-| Styling| CSS|
-| App |Its root component for React application |
-|State | Internal Data Store|
-|Props | Pass Data |
-|Class | for ex : class App extends Component|
-|Function | for ex : function App()|
+|SNo| #Component | #Description | 
+|:---:| :---: | :---: | 
+| 1| View   | written in JSX or JS |
+| 2| Logic | written in Javascript|
+| 3| Styling| CSS|
+| 4| App |Its root component for React application |
+| 5|State | Internal Data Store|
+| 6|Props | Pass Data |
+| 7|Class | for ex : class App extends Component|
+| 8|Function | for ex : function App()|
 
 
 # React Features
-1. Routing
-2. Forms
-3. RestAPICalls
-4. Authentication
+|SNo| #Feature | #Description | 
+|:---: | :---: | :---: | 
+| 1| Routing   |  |
+| 2| Forms ||
+| 3| REST API Calls | |
+| 4| Authentication | |
+
 
 # React Packages
 | #Package | #Purpose | 
