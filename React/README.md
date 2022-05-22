@@ -114,7 +114,7 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 # React Features
 |SNo| #Feature | #Description | 
 |:---: | :---: | :---: | 
-| 1| Routing   | It provides Routing. 1. BrowserRouter 2. Route |
+| 1| Routing   | It provides Routing. Components are 1. BrowserRouter 2. Route 3. Routes |
 | 2| Forms ||
 | 3| REST API Calls | |
 | 4| Authentication | |
