@@ -69,29 +69,29 @@
 * JSX = JavaScript XML
 
 # Similarity Table
-| #Java Script | #Java | 
-| :---: | :---: | 
-| Node JS   | Spring Boot | 
-| NPM | Maven / Gradle |
-| [NPM Registry](https://www.npmjs.com/) | [Maven Repo](https://mvnrepository.com/)|
-| package.json & package-lock.json| pom.xml |
-| "index.js" entry point | Spring boot class entry point|
-| "node_modules" folder | ".m2" folder OR "lib" folder |
-| "npm" command | "mvn" command |
-| "npm install" command  | "mvn install" command |
-| packages like "react", "react-dom" etc | packages like "java.lang", "java.util" etc|
+|SNo| #Java Script | #Java | 
+| :---:| :---: | :---: | 
+| 1| Node JS   | Spring Boot | 
+| 2| NPM | Maven / Gradle |
+| 3| [NPM Registry](https://www.npmjs.com/) | [Maven Repo](https://mvnrepository.com/)|
+| 4| package.json & package-lock.json| pom.xml |
+| 5| "index.js" entry point | Spring boot class entry point|
+| 6| "node_modules" folder | ".m2" folder OR "lib" folder |
+| 7| "npm" command | "mvn" command |
+| 8| "npm install" command  | "mvn install" command |
+| 9| packages like "react", "react-dom" etc | packages like "java.lang", "java.util" etc|
 
 # Important files in React JS app
-| #File | #Purpose | 
-| :---: | :---: | 
-| index.html   | To define title of React App | 
-| App.js |  Its home file for React App|
-| App.test.js |  Its test file for unit testing |
-| App.css |  Styling for App component |
-| index.js | entry point file for React Application |
-| index.css | Styling for entire application |
-| manifest.json |  |
-| package.json | To specifiy the dependencies for React App |
+|SNo| #File | #Purpose | 
+| :---:| :---: | :---: | 
+|1 | index.html   | To define title of React App | 
+| 2| App.js |  Its home file for React App|
+| 3| App.test.js |  Its test file for unit testing |
+| 4| App.css |  Styling for App component |
+| 5| index.js | entry point file for React Application |
+| 6| index.css | Styling for entire application |
+| 7| manifest.json |  |
+| 8| package.json | To specifiy the dependencies for React App |
 
 # Flow
 * index.js ---> index.html & App.js ---> 
@@ -118,12 +118,12 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 | 4| Authentication | |
 
 # React Packages
-| #Package | #Purpose | 
-| :---: | :---: | 
-| react   | Its root for Web app & Native app |
-|react-dom | Used for developing web applications|
-|react-native |Used for developing Native apps ( iPhone & Android ) |
-|react-scripts |It provides npm start, npm run etc |
+|SNo| #Package | #Purpose | 
+| :---:| :---: | :---: | 
+| 1| react   | Its root for Web app & Native app |
+| 2|react-dom | Used for developing web applications|
+| 3|react-native |Used for developing Native apps ( iPhone & Android ) |
+| 4|react-scripts |It provides npm start, npm run etc |
 
 # Image
 1. Architrcture
