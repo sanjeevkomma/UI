@@ -58,7 +58,7 @@
 * [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 * [11 JavaScript and TypeScript Shorthands](https://blog.bitsrc.io/11-javascript-and-typescript-shorthands-you-should-know-690a002674e0)
 * [React Developer Chrome Plugin](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-
+* [Step by step changes - React 6 vs React 5](https://github.com/in28minutes/full-stack-with-react-and-spring-boot/blob/master/00000-react-6-updates/react6-vs-react5-step-by-step-changes.md)
 
 # Terminology
 * Component
@@ -109,7 +109,6 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 | 7|Class | for ex : class App extends Component|
 | 8|Function | for ex : function App()|
 
-
 # React Features
 |SNo| #Feature | #Description | 
 |:---: | :---: | :---: | 
@@ -118,7 +117,6 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 | 3| REST API Calls | |
 | 4| Authentication | |
 
-
 # React Packages
 | #Package | #Purpose | 
 | :---: | :---: | 
@@ -126,9 +124,6 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 |react-dom | Used for developing web applications|
 |react-native |Used for developing Native apps ( iPhone & Android ) |
 |react-scripts |It provides npm start, npm run etc |
-| | |
-| | |
-
 
 # Image
 1. Architrcture
