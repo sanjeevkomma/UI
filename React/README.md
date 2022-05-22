@@ -22,7 +22,7 @@
 * setState() funcation actually does the merging of states
 * var = Global Scope and let = Block Scope
 * const = It cannot be declared without initialization
-* In V6, you can't use the component prop anymore. It was replaced in favor of element
+* In React Router V6 version, you can't use the component prop anymore. It was replaced in favor of element
 
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
