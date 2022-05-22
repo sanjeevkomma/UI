@@ -1,11 +1,20 @@
 import React, {Component} from "react";
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 class TodoApp extends Component {
 
     render() {
         return ( 
            <div className="TodoApp">
-               <LoginComponent></LoginComponent>
+               <Router>
+                  <Routes>
+                      <Route path="/"  element={<LoginComponent/>}></Route>
+                      <Route path="/login"  element={<LoginComponent/>}></Route>
+                      <Route path="/welcome"  element={<WelcomeComponent/>}></Route> 
+                  </Routes>
+               </Router>
+               {/*<LoginComponent></LoginComponent>
+               <WelcomeComponent></WelcomeComponent>*/}
            </div>
         )
     }
@@ -63,13 +72,14 @@ class LoginComponent extends Component {
 
     }
 
-    render() {
+    render() { // render method
        
         return(
             <>
-            <ShowInvalidCredentials hasLoginFailed={this.state.hasLoginFailed}></ShowInvalidCredentials>
-            <ShowLoginSuccessMessage showSuccessMessage={this.state.showSuccessMessage}></ShowLoginSuccessMessage>
-            
+           {/* <ShowInvalidCredentials hasLoginFailed={this.state.hasLoginFailed}></ShowInvalidCredentials>
+           <ShowLoginSuccessMessage showSuccessMessage={this.state.showSuccessMessage}></ShowLoginSuccessMessage> */ }
+           { this.state.hasLoginFailed && <div>Invalid Credentials</div> }
+           { this.state.showSuccessMessage && <div>Login Successful</div> }
             User Name : <input type="text" name="username" value={this.state.username} onChange = { this.handleChange}/>
             Password : <input type="password" name="password" value={this.state.password} onChange = { this.handleChange}/>
             <button onClick={this.loginClicked}>Login</button>
@@ -78,7 +88,19 @@ class LoginComponent extends Component {
     }
 }
 
-function ShowInvalidCredentials(props) {
+class WelcomeComponent extends Component {
+
+    render() {
+
+        return(
+
+            <div>Welcome Todo app component</div>
+        )
+
+    }
+}
+
+{/* function ShowInvalidCredentials(props) {
 
     if ( props.hasLoginFailed )
     return <div>Invalid Credentials</div>
@@ -88,6 +110,6 @@ function ShowLoginSuccessMessage(props) {
     if ( props.showSuccessMessage )
     return <div>Login Successful</div>
     return null;
-}
+}  */ }
 
 export default TodoApp
