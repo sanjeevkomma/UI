@@ -46,6 +46,7 @@
     and scripts into the app directory. If you do this, you can’t go back!
 * $ npm cache clean -f  
 * $ npm install -g n 
+* $ npm add react-router-dom == It adds react router package to package.json for using router feature
  
 
 # Tutorial
