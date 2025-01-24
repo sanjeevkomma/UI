@@ -22,9 +22,13 @@
   3. styles.css --> Optional styling for your app
 
 # 5. Run 
-  * $ http-server --> Start the server
-  * http://127.0.0.1:8080 or http://localhost:8080
-
+  * Option 1: Use http-server
+    * $ http-server --> Start the server
+    * http://127.0.0.1:8080 or http://localhost:8080
+  * Option 2: Use Live Server (in Visual Studio Code)
+    * Install the Live Server extension from the VS Code marketplace.
+    * Right-click index.html in the file explorer and select Open with Live Server
+    * The app will open automatically in your browser.
 # 6. Debug
   * Open the browser's DevTools (F12 or right-click > Inspect)
   * Go to the Console tab to view JavaScript errors or logs.
