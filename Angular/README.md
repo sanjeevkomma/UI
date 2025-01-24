@@ -1,6 +1,17 @@
-# Definition
-
 # To Read
+
+# How to Install, Build, Run , Debug & Deploy Angular JS application in Local
+# Prerequisites
+
+# Install
+
+# Build
+
+# Run 
+
+# Debug
+
+# Deploy
 
 # References
 * [Angular Dev Official](https://angular.dev/)
