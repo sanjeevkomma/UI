@@ -6,9 +6,9 @@
 * NPM(Node Package Manager) --- for managing dependencies
 * VS Code IDE
 # 2. Install
-* $ npm install angular == Install AngularJS
-* $ npm init -y == Initialize a package.json file
-* $ npm install -g http-server == Install HTTP Server
+* $ npm install angular -> Install AngularJS
+* $ npm init -y -> Initialize a package.json file
+* $ npm install -g http-server -> Install HTTP Server
 # 3. Build
 
 # 4. Main Files
