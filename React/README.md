@@ -72,7 +72,7 @@
 
 # Similarity Table
 |SNo| #Java Script | #Java | 
-| :---:| :---: | :---: | 
+| :---| :--- | :--- | 
 | 1| Node JS   | Spring Boot | 
 | 2| NPM | Maven / Gradle |
 | 3| [NPM Registry](https://www.npmjs.com/) | [Maven Repo](https://mvnrepository.com/)|
@@ -85,7 +85,7 @@
 
 # Important files in React JS app
 |SNo| #File | #Purpose | 
-| :---:| :---: | :---: | 
+| :---| :--- | :--- | 
 |1 | index.html   | To define title of React App | 
 | 2| App.js |  Its home file for React App|
 | 3| App.test.js |  Its test file for unit testing |
@@ -101,7 +101,7 @@
 # React Components
 Component examples are Header, Footer, Page , Menu , Todo etc in web application
 |SNo| #Component | #Description | 
-|:---:| :---: | :---: | 
+|:---| :--- | :--- | 
 | 1| View   | written in JSX or JS |
 | 2| Logic | written in Javascript|
 | 3| Styling| CSS|
@@ -113,7 +113,7 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 
 # React Features
 |SNo| #Feature | #Description | 
-|:---: | :---: | :---: | 
+|:--- | :--- | :--- | 
 | 1| Routing   | It provides Routing. Components are 1. BrowserRouter 2. Route 3. Routes |
 | 2| Forms ||
 | 3| REST API Calls | |
@@ -121,7 +121,7 @@ Component examples are Header, Footer, Page , Menu , Todo etc in web application
 
 # React Packages
 |SNo| #Package | #Purpose | 
-| :---:| :---: | :---: | 
+| :---| :--- | :--- | 
 | 1| react   | Its root for Web app & Native app |
 | 2|react-dom | Used for developing web applications|
 | 3|react-native |Used for developing Native apps ( iPhone & Android ) |
