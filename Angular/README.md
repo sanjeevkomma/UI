@@ -2,16 +2,23 @@
 
 # How to Install, Build, Run , Debug & Deploy Angular JS application in Local
 # 1. Prerequisites
-
+* Node.js
+* NPM(Node Package Manager) --- for managing dependencies
+* VS Code IDE
 # 2. Install
-
+* $ npm install angular
 # 3. Build
 
-# 4. Run 
+# 4. Main Files
+1. index.html : The main HTML file.
+2. app.js: Your AngularJS script
+3. styles.css: Optional styling for your app
 
-# 5. Debug
+# 5. Run 
 
-# 6. Deploy
+# 6. Debug
+
+# 7. Deploy
 
 # References
 * [Angular Dev Official](https://angular.dev/)
