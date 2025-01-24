@@ -14,7 +14,7 @@
   * Webpack : Bundle AngularJS modules and assets
   * Install Gulp: $ npm install --save-dev gulp gulp-uglify
   * Create a gulpfile.js
-  * Run the minification : gulp minify
+  * Run the minification : $ gulp minify
 
 # 4. Main Files
   1. index.html --> The main HTML file.
