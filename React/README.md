@@ -24,6 +24,19 @@
 * const = It cannot be declared without initialization
 * In React Router V6 version, you can't use the component prop anymore. It was replaced in favor of element
 
+# How to Install, Build, Run , Debug & Deploy React application in Local
+# 1. Prerequisites
+
+# 2. Install
+
+# 3. Build
+
+# 4. Run 
+
+# 5. Debug
+
+# 6. Deploy
+
 # Prerequisites
 * [Install Node JS on Windows 7](https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7)
 * [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
