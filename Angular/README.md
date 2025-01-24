@@ -7,17 +7,17 @@
 * VS Code IDE
 # 2. Install
 * $ npm install angular -> Install AngularJS
-* $ npm init -y -> Initialize a package.json file
+* $ npm init -y --> Initialize a package.json file
 * $ npm install -g http-server -> Install HTTP Server
 # 3. Build
 
 # 4. Main Files
-1. index.html == The main HTML file.
-2. app.js == Your AngularJS script
-3. styles.css == Optional styling for your app
+1. index.html -> The main HTML file.
+2. app.js -> Your AngularJS script
+3. styles.css -> Optional styling for your app
 
 # 5. Run 
-* $ http-server == Start the server
+* $ http-server -> Start the server
 * http://127.0.0.1:8080 or http://localhost:8080
 
 # 6. Debug
