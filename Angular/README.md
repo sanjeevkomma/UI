@@ -1,17 +1,17 @@
 # To Read
 
 # How to Install, Build, Run , Debug & Deploy Angular JS application in Local
-# Prerequisites
+# 1. Prerequisites
 
-# Install
+# 2. Install
 
-# Build
+# 3. Build
 
-# Run 
+# 4. Run 
 
-# Debug
+# 5. Debug
 
-# Deploy
+# 6. Deploy
 
 # References
 * [Angular Dev Official](https://angular.dev/)
