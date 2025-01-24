@@ -23,7 +23,7 @@
 
 
 | Technology | #Definition | #Comments |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | HTML5  |  |  |
 | Java Script   | JavaScript Library |  |
 | [TypeScript](https://www.typescriptlang.org/)   | TypeScript is JavaScript with syntax for types | The latest version of Typescript is TypeScript 3.5 |
@@ -38,7 +38,7 @@
 
 
 | #Type | #Anuglar JS | #React JS | 
-|  :---: | :---: | :---: | 
+|  :--- | :--- | :--- | 
 | DOM |  Regular DOM |Virtual DOM  | 
 |App Architecture | MVC| Flux| 
 
