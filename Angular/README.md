@@ -7,6 +7,7 @@
   * VS Code IDE
 # 2. Install
   * $ npm install angular --> Install AngularJS
+  * $ npm install -g @angular/cli
   * $ npm init -y --> Initialize a package.json file
   * $ npm install -g http-server --> Install HTTP Server
 # 3. Build
