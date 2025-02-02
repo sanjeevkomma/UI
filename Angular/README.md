@@ -5,11 +5,16 @@
   * Node.js
   * NPM(Node Package Manager) --- for managing dependencies
   * VS Code IDE
+  * "ng" is short for Angular.
 # 2. Install
   * $ npm install angular --> Install AngularJS
-  * $ npm install -g @angular/cli
+  * $ npm install -g @angular/cli --> To set up, develop, and manage Angular applications
+  * $ npm install @angular/cli --save-dev
+  * $ ng version --> To know Angular CLI version
   * $ npm init -y --> Initialize a package.json file
   * $ npm install -g http-server --> Install HTTP Server
+  * ![image](https://github.com/user-attachments/assets/9d744805-6b64-4864-b49a-b3d23ab8d5d4)
+
 # 3. Build
   * Grunt or Gulp : Automate minification, bundling, and other tasks
   * Webpack : Bundle AngularJS modules and assets
