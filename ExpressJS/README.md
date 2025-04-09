@@ -7,4 +7,6 @@
 
 # Analogy : Car Factory
 * ![image](https://github.com/user-attachments/assets/a43349c2-1053-4fcc-bb05-d8d1f85e02cd)
+# Visual Concept
+* ![image](https://github.com/user-attachments/assets/52b1d480-efa0-4a73-a5b0-cd406e0a13bc)
 
