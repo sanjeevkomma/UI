@@ -1,3 +1,6 @@
+# ToRead
+
+# JSX
 * [JSX Tutorial](https://www.w3schools.com/react/react_jsx.asp)
 * JSX = JavaScript XML
 * JSX allows us to write HTML in React.
@@ -9,3 +12,5 @@
 * In JSX, if we want to return multiple tags ( elements ) , we have to enclose them in parent tag ( element )
 * In JSX , all nodes should be closed properly
 * In JSX, custom defined tags should start with "Capital" letter ( for ex : ```<FirstComponent></FirstComponent>``` ), whether its a Class component or Function component
+
+# Babel
