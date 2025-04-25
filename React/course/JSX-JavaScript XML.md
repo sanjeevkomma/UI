@@ -2,7 +2,7 @@
 
 # JSX
 * [JSX Tutorial](https://www.w3schools.com/react/react_jsx.asp)
-* JSX = JavaScript XML
+* JSX = JavaScript XML = HTML like Syntax
 * JSX allows us to write HTML in React.
 * JSX makes it easier to write and add HTML in React
 * Babel is a JavaScript compiler, that compiles JSX code into JavaScript
