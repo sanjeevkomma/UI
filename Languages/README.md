@@ -21,3 +21,5 @@
       * i) HTML in a React (JSX) File
 2. **.html file --> contains --> JS code**
       * We can not write js code in .html file because React uses JSX and a component-based architecture
+* JSX is not about putting JavaScript and XML into an HTML file.
+* Instead, JSX lets you write HTML-like UI directly in JavaScript code — and React handles the rest
