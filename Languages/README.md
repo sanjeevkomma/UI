@@ -7,11 +7,11 @@
 3. JavaScript = Behaviour
 
 # traditional web development
-1. .html file --> contains --> js code
+1. **.html file --> contains --> js code**
       * i) Inline JavaScript (inside an HTML tag)
       * ii) Internal JavaScript (inside a <script> tag)
       * iii) External JavaScript File (best practice for big projects) )
-2. .js file --> contains --> html code
+2. **.js file --> contains --> html code**
       * i) Add HTML as a String
       * ii) Create Elements Using the DOM
       * iii) Template Literals (for Multi-line HTML)
