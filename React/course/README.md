@@ -9,10 +9,10 @@
    // App.js
    function App() {
    return (
-    <div>
+   <div>
       <h1>Hello from React</h1>
       <p>This looks like HTML, but it's JSX!</p>
-    </div>
+   </div>
    );
    }
    export default App;
