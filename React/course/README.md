@@ -31,20 +31,20 @@
    export default HelloWorld;
    ```
 4. **.html file --> contains --> JS code**
-   i) Inline JavaScript inside <script> tags
-   ```html
-   <!-- JavaScript inside HTML -->
-    <script>
+   * i) Inline JavaScript inside <script> tags
+     ```html
+     <!-- JavaScript inside HTML -->
+     <script>
       function changeText() {
         document.getElementById("heading").innerText = "You clicked the button!";
       }
-   </script>
-   ```
-   ii) External JavaScript File Linked in HTML
-   ```html
-   <!-- Link to external JavaScript file -->
-   <script src="script.js"></script>
-   ```
+     </script>
+     ```
+   * ii) External JavaScript File Linked in HTML
+     ```html
+     <!-- Link to external JavaScript file -->
+     <script src="script.js"></script>
+     ```
    
 * You can not manually write JavaScript code inside HTML file
 * We can not write js code in .html file because React uses JSX and a component-based architecture
