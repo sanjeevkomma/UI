@@ -28,7 +28,6 @@
     </div>
   );
   }
-
   export default HelloWorld;
   ```
 4. **.html file --> contains --> JS code**
