@@ -1,4 +1,5 @@
 # ToRead
+* JSX = JavaScript that looks like HTML, but works like JavaScript!
 
 # JSX
 * [JSX Tutorial](https://www.w3schools.com/react/react_jsx.asp)
