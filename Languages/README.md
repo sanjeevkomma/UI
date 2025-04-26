@@ -25,6 +25,13 @@
         document.body.appendChild(div);
         ```
       * iii) Template Literals (for Multi-line HTML)
+        ```javascript
+        const htmlTemplate = `<section>
+        <h1>Welcome</h1>
+        <p>This is a paragraph.</p>
+        </section>`;
+        document.body.innerHTML = htmlTemplate;
+        ```
 3. **.html file --> contains --> JS code**
       * i) Inline JavaScript (inside an HTML tag)
       * ii) Internal JavaScript (inside a <script> tag)
