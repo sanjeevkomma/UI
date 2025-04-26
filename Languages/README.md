@@ -15,8 +15,8 @@
 1. **.js file --> contains --> HTML code**
       * i) Add HTML as a String
         ```javascript
-       const htmlString = "<div>Hello World</div>";
-       document.body.innerHTML = htmlString;
+           const htmlString = "<div>Hello World</div>";
+           document.body.innerHTML = htmlString;
         ```
       * ii) Create Elements Using the DOM
       * iii) Template Literals (for Multi-line HTML)
