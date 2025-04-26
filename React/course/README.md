@@ -45,7 +45,16 @@
      <!-- Link to external JavaScript file -->
      <script src="script.js"></script>
      ```
-   
+# Embed JavaScript inside {}
+ * If you want to use any dynamic value, variable in html code,  wrap it inside {}
+ ```javascript
+ const name = "John";
+ return <h1>Hello, {name}</h1>;
+ ```
+       
+# Rule to remember
+* In React’s JSX —  use {} to insert real JavaScript ( it may have HTML like code ) inside the JSX
+
 * You can not manually write JavaScript code inside HTML file
 * We can not write js code in .html file because React uses JSX and a component-based architecture
 * JSX is not about putting JavaScript and XML into an HTML file.
