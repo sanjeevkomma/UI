@@ -11,7 +11,7 @@
 2. CSS = Style
 3. JavaScript = Behaviour
 
-# traditional web development
+# Traditional Web Development
 1. **.js file --> contains --> HTML code**
       * i) Add HTML as a String
         ```javascript
@@ -34,5 +34,21 @@
         ```
 3. **.html file --> contains --> JS code**
       * i) Inline JavaScript (inside an HTML tag)
+        ```html
+        <button onclick="alert('Button clicked!')">Click Me</button>
+       ```html
       * ii) Internal JavaScript (inside a <script> tag)
-      * iii) External JavaScript File (best practice for big projects) )
+        ```html
+        <script>
+        console.log('This is internal JavaScript.');
+        </script>
+       ```html
+      * iii) External JavaScript File (best practice for big projects)
+        * Link an external .js file:
+          ```html
+          <script src="script.js"></script>
+          ```
+        * Example script.js:
+          ```javascript
+          console.log('This is an external JS file.');
+          ```
