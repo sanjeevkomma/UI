@@ -14,17 +14,13 @@
 # traditional web development
 1. **.js file --> contains --> HTML code**
       * i) Add HTML as a String
+        ```javascript
+       const htmlString = "<div>Hello World</div>";
+       document.body.innerHTML = htmlString;
+        ```
       * ii) Create Elements Using the DOM
       * iii) Template Literals (for Multi-line HTML)
-2. **.html file --> contains --> JS code**
+3. **.html file --> contains --> JS code**
       * i) Inline JavaScript (inside an HTML tag)
       * ii) Internal JavaScript (inside a <script> tag)
       * iii) External JavaScript File (best practice for big projects) )
-
-# In React
-1. **.js file --> contains --> HTML code**
-      * i) HTML in a React (JSX) File
-2. **.html file --> can NOT contains --> JS code**
-      * **We can not write js code in .html file because React uses JSX and a component-based architecture**
-* JSX is not about putting JavaScript and XML into an HTML file.
-* Instead, JSX lets you write HTML-like UI directly in JavaScript code — and React handles the rest
