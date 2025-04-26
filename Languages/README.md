@@ -19,6 +19,11 @@
            document.body.innerHTML = htmlString;
         ```
       * ii) Create Elements Using the DOM
+        ```javascript
+        const div = document.createElement("div");
+        div.textContent = "Hello World";
+        document.body.appendChild(div);
+        ```
       * iii) Template Literals (for Multi-line HTML)
 3. **.html file --> contains --> JS code**
       * i) Inline JavaScript (inside an HTML tag)
