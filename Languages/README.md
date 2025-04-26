@@ -36,13 +36,13 @@
       * i) Inline JavaScript (inside an HTML tag)
         ```html
         <button onclick="alert('Button clicked!')">Click Me</button>
-       ```
+        ```
       * ii) Internal JavaScript (inside a <script> tag)
         ```html
         <script>
         console.log('This is internal JavaScript.');
         </script>
-       ```
+        ```
       * iii) External JavaScript File (best practice for big projects)
         * Link an external .js file:
           ```html
