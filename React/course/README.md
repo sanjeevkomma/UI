@@ -5,8 +5,20 @@
 
 # In React
 1. **.js file --> contains --> HTML code**
-2. **.jsx file --> contains --> HTML code**
-3. **.html file --> contains --> JS code**
+   ```javascript
+   // App.js
+   function App() {
+   return (
+    <div>
+      <h1>Hello from React</h1>
+      <p>This looks like HTML, but it's JSX!</p>
+    </div>
+   );
+   }
+   export default App;
+   ```
+3. **.jsx file --> contains --> HTML code**
+4. **.html file --> contains --> JS code**
       
 * You can not manually write JavaScript code inside HTML file
 * We can not write js code in .html file because React uses JSX and a component-based architecture
