@@ -18,6 +18,19 @@
    export default App;
    ```
 3. **.jsx file --> contains --> HTML code**
+   ```javascript
+   // HelloWorld.jsx
+   function HelloWorld() {
+   return (
+    <div>
+      <h1>Hello, World!</h1>
+      <p>This is a JSX file containing HTML-like code.</p>
+    </div>
+  );
+  }
+
+  export default HelloWorld;
+  ```
 4. **.html file --> contains --> JS code**
       
 * You can not manually write JavaScript code inside HTML file
