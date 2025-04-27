@@ -11,6 +11,11 @@
 * ES6 = ECMAScript 2015 or ECMAScript 6
 * ECMA = European Computer Manufacturers Association
 
+# JavaScript Engine
+* A JavaScript engine is a program that reads, interprets, and/or compiles JavaScript code into machine code so your computer (or device) can actually run it
+* ![image](https://github.com/user-attachments/assets/24f644e4-d49f-4658-bbcd-5a6cf16a9c28)
+
+
 # Tutorial
 * [Javascript ES6 - w3schools](https://www.w3schools.com/js/js_es6.asp)
 * [Javascript - w3schools](https://www.w3schools.com/js/default.asp)
