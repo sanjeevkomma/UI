@@ -18,3 +18,6 @@
 * [Javascript Official](https://www.javascript.com/)
 
 # Reference
+* [The Modern JavaScript Tutorial--https://javascript.info/](https://javascript.info/)
+* [JavaScript Programming Tutorial for Beginners--Youtube](https://www.youtube.com/watch?v=IC5vBKc21X8)
+* [JavaScript Programming Tutorial--Telugu--Youtube](https://www.youtube.com/watch?v=PlbupGCBV6w&list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4)
