@@ -1,13 +1,13 @@
 let str = String(6);
-console.log(str, typeof str);
+console.log(str, typeof str); // 6 string
 
 
 let num = Number("123");
-console.log(num, typeof num);
+console.log(num, typeof num); // 123 number
 
 
 let x;
-console.log(x, typeof x);
+console.log(x, typeof x); // undefined undefined
 
 x = 8;
 console.log(x, typeof x); // 8 number
@@ -37,18 +37,3 @@ console.log(z); // NaN
 
 let b = parseInt("123 sanjeev");
 console.log(b); // 123
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
