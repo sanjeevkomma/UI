@@ -9,3 +9,9 @@ do {
   console.log('do while', j);
   j++;
 } while (j <= 5);
+
+let num = 587432;
+while(num > 0){
+  console.log(num % 10); // It prints reminder
+  num = parseInt(num / 10);
+}
