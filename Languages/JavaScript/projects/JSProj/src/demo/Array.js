@@ -10,5 +10,5 @@ console.log(values); // []
 let values2 = [];
 console.log(values2); // []
 values2.push(12);
-console.log(values2);
+console.log(values2); // [ 12 ]
 
