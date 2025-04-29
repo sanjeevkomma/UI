@@ -1,3 +1,6 @@
+
+// in javascript, function is an object 
+
 let userName = "John";
 
 function greet(uName){
