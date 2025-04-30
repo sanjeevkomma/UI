@@ -31,8 +31,8 @@ console.log(data2.push(2)); // 5 --> i) add an element to ending & returns lengt
 console.log(data2); // [ 5, 7, 8, 9, 2 ]
 console.log(data2.pop()); // 2
 console.log(data2); // [ 5, 7, 8, 9 ]
-console.log(data2.shift()); // 5 -- remove element from beginning
+console.log(data2.shift()); // 5 -- removes an element from the beginning
 console.log(data2); // [ 7, 8, 9 ]
-console.log(data2.unshift(2)); // 4 -- add an element to beginning & returns length of array after adding an element
+console.log(data2.unshift(2)); // 4 -- add an element to beginning and returns length of an array after adding an element
 console.log(data2); // [ 2, 7, 8, 9 ]
 console.log(data2.splice(1,2)); // [ 7, 8 ]
