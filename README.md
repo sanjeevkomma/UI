@@ -5,6 +5,7 @@
 * Node = Node JS = JavaScript Runtime 
 * yarn vs npm vs npx 
 * NPM helps to install or build Modules, Packages, Libraries, Plugins, Framework(Express JS), Applications
+* NPX = Node Package eXecute 
 * JSRE = JavaScript Runtime Environment
 * NPM depends on Node
 * NPM provides CLI tool
