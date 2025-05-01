@@ -68,6 +68,15 @@ let tokens = "My tech stack is Javascript Java".split(' ');
 let [k,l,,,...m] = tokens;
 console.log(m); // [ 'Javascript', 'Java' ]
 
+// Array forEach Method
+let arr2 = [12,52];
+arr2.forEach( (n, index,arr2) => {
+  console.log(n,index,arr2);
+});
+/* output :
+12 0 [ 12, 52 ]
+52 1 [ 12, 52 ]
+*/
 
 
 
