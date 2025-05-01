@@ -14,3 +14,20 @@ Hi 2
 Hello 1
 Hello 2
 */
+
+//----for...of loop : Used for iterable collection
+let fruits = ["apple", "banana", "cherry"];
+
+for (let fruit of fruits) {
+  console.log(fruit);
+}
+/* output :
+apple
+banana
+cherry
+*/
+
+
+
+
+
