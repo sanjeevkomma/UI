@@ -21,12 +21,18 @@ let fruits = ["apple", "banana", "cherry"];
 for (let fruit of fruits) {
   console.log(fruit);
 }
-/* output :
+
+//---for...in loop
+for(let key in fruits){
+  console.log(fruits[key]);
+}
+
+// output for both for..in loop & for..of loop :
+/*
 apple
 banana
 cherry
 */
-
 
 
 

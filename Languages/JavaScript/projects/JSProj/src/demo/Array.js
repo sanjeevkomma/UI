@@ -41,3 +41,42 @@ console.log(data2.splice(0,2,14,15)); // replaces [ 2, 9 ] with [ 14, 15 ] -- co
 console.log(data2); // [ 14, 15 ]
 console.log(data2.push(45,46,47)); // 5 (length of an array after pushing)
 console.log(data2); // [ 14, 15, 45, 46, 47 ]
+
+// Destructuring an array
+let nums = [19, 29, 35, 42, 65];
+console.log(nums); // [ 19, 29, 35, 42, 65 ]
+let [a, b, , d, e] = nums;
+console.log(a); // 19
+console.log(d); // 42
+
+// Swapping elements
+let x = 23;
+let y = 88;
+[x,y] = [y,x];
+console.log(x,y); // 88 23
+
+// Swapping elements in an array
+let arr1 = [31, 52, 83, 34, 45];
+[arr1[0], arr1[1]] = [arr1[1], arr1[0]];
+console.log(arr1); // [ 52, 31, 83, 34, 45 ]
+
+let words = "My name is Sanjeev".split(' ');
+let [g,h,,j] = words;
+console.log(g,h); // My name
+
+let tokens = "My tech stack is Javascript Java".split(' ');
+let [k,l,,,...m] = tokens;
+console.log(m); // [ 'Javascript', 'Java' ]
+
+
+
+
+
+
+
+
+
+
+
+
+
