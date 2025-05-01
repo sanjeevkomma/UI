@@ -1,4 +1,5 @@
 // Set is collection of unique values and maintains insertion order
+// Set is a class in Javascript
 let nums = new Set("bookkeeper");
 console.log(nums); // Set(6) { 'b', 'o', 'k', 'e', 'p', 'r' }
 

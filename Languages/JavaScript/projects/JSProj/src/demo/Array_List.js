@@ -1,3 +1,4 @@
+// Array is class in Javascript
 let arr = [1, 2, 3, 4, 5];
 console.log(arr); // [ 1, 2, 3, 4, 5 ]
 console.log(arr.length); // 5
