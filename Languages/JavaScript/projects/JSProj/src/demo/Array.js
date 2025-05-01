@@ -78,14 +78,22 @@ arr2.forEach( (n, index,arr2) => {
 52 1 [ 12, 52 ]
 */
 
+// Array filter Method
+let arr6 = [12,52,34,65,78];
+arr6.filter( (n, index,arr6) => {
+  return n > 50;
+}).forEach( (n, index,arr7) => {console.log(n);}); // [ 52, 65, 78 ]
 
 
+// Array map Method
+let arr3 = [12,52];
+arr3.map( (n, index,arr3) => {
+  return n * 2;
+}).forEach( (n, index,arr3) => {console.log(n);}); // [ 24, 104 ]
 
-
-
-
-
-
-
-
-
+// Array reduce Method
+let arr5 = [12,52,34,65,78];
+let sum = arr5.filter(n => n > 50)
+              .map(n => n * 2)
+              .reduce((a,b) => a + b);
+console.log(sum); // 390
