@@ -5,13 +5,18 @@ import Sample from './example/Sample';
 import './sample.css';
 
 function App() {
-  return (
-    <div className="App">
-        <Apple />
-        <Sample />
-        <h1>This is sample CSS file</h1>
-    </div>
-  );
+    return (
+        <section>
+            <div className="App">
+                <Apple/>
+                <Sample/>
+                <h1>This is sample CSS file</h1>
+            </div>
+            <h1>this is h1 tag</h1>
+            <h2>this is h2 tag</h2>
+            <h3>this is h3 tag</h3>
+        </section>
+    );
 }
 
 export default App;
