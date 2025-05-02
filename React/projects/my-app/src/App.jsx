@@ -4,21 +4,21 @@ import Apple from './Apple';
 import Sample from './example/Sample';
 import './sample.css';
 
-let fruit = 'Apple';
+let a = 'Apple';
 let b = 'Mango';
 
 function App() {
     return (
         <section>
-            <div className="App">
+            <div className="container">
                 <Apple/>
                 <Sample/>
                 <h1>This is sample CSS file</h1>
             </div>
-            <h1>I like {fruit} and {b}</h1>
+            <p className="para">This is paragraph</p>
+            <h1>I like {a} and {b}</h1>
             <h1>this is h1 tag</h1>
-            <h2>this is h2 tag</h2>
-            <h3>this is h3 tag</h3>
+            <img src="logo192.png" className="samplePictures" alt="logo" />
         </section>
     );
 }

@@ -1,3 +1,18 @@
 h1 {
     color: red;
 }
+.container {
+    border: 2px solid green;
+    background-color: rebeccapurple;
+}
+.param {
+    border: 2px solid red;
+    color: green;
+    background-color: rebeccapurple;
+}
+.samplePictures {
+    border: 2px solid red;
+    color: green;
+    width: 200px;
+    height: 200px;
+}
