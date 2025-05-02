@@ -17,6 +17,10 @@
    }
    export default App;
    ```
+2. **.js file --> contains --> JSX code**
+```jsx
+const element = <h1>Hello, world!</h1>;
+```
 3. **.jsx file --> contains --> HTML code**
    ```javascript
    // HelloWorld.jsx
