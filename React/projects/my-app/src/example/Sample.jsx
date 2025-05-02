@@ -1,4 +1,5 @@
 import React from 'react';
+import TestComp from './TestComp';
 
 const Mango = () => {
     return <h1>Mangos are sweet</h1>;
@@ -9,9 +10,12 @@ const Grapes = () => {
 };
 
 function Sample() {
-    return (<div> Sample
-        <Mango/>
-        <Grapes/></div>);
+    return (
+        <div> Sample
+            <Mango/>
+            <Grapes/>
+            <TestComp/>
+        </div> );
 }
 
 export default Sample;
