@@ -7,6 +7,7 @@ import FirstComp from "./propsContainer/FirstComp";
 import SecondComp from "./propsContainer/SecondComp";
 import ThirdComp from "./propsContainer/ThirdComp";
 import FourthComp from "./propsContainer/FourthComp";
+import Childcomp from "./propsContainer/ChildComp";
 
 
 
@@ -20,6 +21,12 @@ const user = {
     age: 20
 };
 
+const exampleCarObject = {
+    name: 'BMW',
+    year: 2021,
+    model: '320i',
+    color: 'red'
+};
 
 function App() {
     return (
@@ -29,6 +36,7 @@ function App() {
             <SecondComp myname={user.city}/>
             <ThirdComp myname={user.area}/>
             <FourthComp myname={user.age}/>
+            <Childcomp car={exampleCarObject}/>
 
             <div className="container">
                 <Apple/>
