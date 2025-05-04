@@ -11,7 +11,7 @@ const StateMgm = () => {
         } else {
             setCity("Nagpur");
         }
-    }, []);
+    }, [city]);
 
 
     return (
