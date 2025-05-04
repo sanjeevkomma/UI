@@ -8,7 +8,7 @@ import SecondComp from "./propsContainer/SecondComp";
 import ThirdComp from "./propsContainer/ThirdComp";
 import FourthComp from "./propsContainer/FourthComp";
 import Childcomp from "./propsContainer/ChildComp";
-
+import Counter from "./Hooks/Counter";
 
 
 let a = 'Apple';
@@ -31,7 +31,7 @@ const exampleCarObject = {
 function App() {
     return (
         <section>
-
+            <Counter/>
             <FirstComp myname={user.name}/>
             <SecondComp myname={user.city}/>
             <ThirdComp myname={user.area}/>
