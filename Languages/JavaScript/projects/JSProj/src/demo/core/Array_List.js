@@ -15,6 +15,8 @@ console.log(values2); // [ 12 ]
 
 let names = ['Jan', 'Feb', 'Mar', 'Apr', 'May'];
 names.push("abc");
+
+
 names[6] = "xyz";
 console.log(names);
 
@@ -43,7 +45,7 @@ console.log(data2); // [ 14, 15 ]
 console.log(data2.push(45,46,47)); // 5 (length of an array after pushing)
 console.log(data2); // [ 14, 15, 45, 46, 47 ]
 
-// Destructuring an array
+// De-structuring an array
 let nums = [19, 29, 35, 42, 65];
 console.log(nums); // [ 19, 29, 35, 42, 65 ]
 let [a, b, , d, e] = nums;
