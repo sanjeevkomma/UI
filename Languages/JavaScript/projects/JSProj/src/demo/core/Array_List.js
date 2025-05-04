@@ -49,8 +49,12 @@ console.log(data2); // [ 14, 15, 45, 46, 47 ]
 let nums = [19, 29, 35, 42, 65];
 console.log(nums); // [ 19, 29, 35, 42, 65 ]
 let [a, b, , d, e] = nums;
+let [p, q] = nums;
 console.log(a); // 19
 console.log(d); // 42
+console.log("----------")
+console.log(p); // 19
+console.log(q); // 29
 
 // Swapping elements
 let x = 23;
