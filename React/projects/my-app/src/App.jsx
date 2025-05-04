@@ -10,6 +10,7 @@ import FourthComp from "./propsContainer/FourthComp";
 import Childcomp from "./propsContainer/ChildComp";
 import Counter from "./Hooks/Counter";
 import StateMgm from "./Hooks/StateMgm";
+import {useState} from 'react';
 
 
 let a = 'Apple';
@@ -30,9 +31,14 @@ const exampleCarObject = {
 };
 
 function App() {
+
+    const [sampleCondition, setSampleCondition] = useState(true);
+
+    const result = sampleCondition ? <StateMgm/> : 'I am false statement';
+
     return (
         <section>
-            <StateMgm/>
+            <h1>{result}</h1>
             <FirstComp myname={user.name}/>
             <SecondComp myname={user.city}/>
             <ThirdComp myname={user.area}/>
