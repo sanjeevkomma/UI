@@ -13,6 +13,7 @@ import StateMgm from "./Hooks/StateMgm";
 import {useState} from 'react';
 import ClickEvent from "./Events/ClickEvent";
 import WindowSizeTracker from "./EventListeners/WindowSizeTracker";
+import FormEvent from "./Events/FormEvent";
 
 
 let a = 'Apple';
@@ -40,6 +41,9 @@ function App() {
 
     return (
         <section>
+            <FormEvent/>
+            {/*
+
             <ClickEvent/>
             <WindowSizeTracker/>
             <h1>{result}</h1>
@@ -58,6 +62,8 @@ function App() {
             <h1>I like {a} and {b}</h1>
             <h1>this is h1 tag</h1>
             <img src="logo192.png" className="samplePictures" alt="logo" />
+
+            */}
 
         </section>
     );
