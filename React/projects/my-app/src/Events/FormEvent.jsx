@@ -4,6 +4,8 @@ const FormEvent = () => {
         <section className="formSection">
         <div>
             <input type="text" placeholder="Enter your name"/>
+            <br/>
+            <button>Submit</button>
         </div>
         </section>
     );
