@@ -12,6 +12,7 @@ import Counter from "./Hooks/Counter";
 import StateMgm from "./Hooks/StateMgm";
 import {useState} from 'react';
 import ClickEvent from "./Events/ClickEvent";
+import WindowSizeTracker from "./EventListeners/WindowSizeTracker";
 
 
 let a = 'Apple';
@@ -40,6 +41,7 @@ function App() {
     return (
         <section>
             <ClickEvent/>
+            <WindowSizeTracker/>
             <h1>{result}</h1>
             <FirstComp myname={user.name}/>
             <SecondComp myname={user.city}/>
