@@ -11,6 +11,7 @@ import Childcomp from "./propsContainer/ChildComp";
 import Counter from "./Hooks/Counter";
 import StateMgm from "./Hooks/StateMgm";
 import {useState} from 'react';
+import ClickEvent from "./Events/ClickEvent";
 
 
 let a = 'Apple';
@@ -38,6 +39,7 @@ function App() {
 
     return (
         <section>
+            <ClickEvent/>
             <h1>{result}</h1>
             <FirstComp myname={user.name}/>
             <SecondComp myname={user.city}/>
