@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import { ToastContainer, toast } from 'react-toastify';
 
 const FormEvent = () => {
 
@@ -9,21 +10,28 @@ const FormEvent = () => {
 
     const [newUserDetails, setNewUserDetails] = useState();
 
-    const userDetails = () => {
-           setNewUserDetails(userName);
+    const userDetails = (e) => {
+        e.preventDefault(); // Prevent default form submit. Avoids Page/Form Refresh
+        setNewUserDetails(userName);
+        notify();
+
     }
+
+    const notify = () => toast("Wow so easy!");
 
     return (
         <section className="formSection">
             <h2> onChange {userName}</h2>
-             <h2> onClick {newUserDetails}</h2>
+            <h2> onClick {newUserDetails}</h2>
             <div className="inputDiv">
-                <input type="text" placeholder="Enter your name"
-                       onChange={getUserName}/>
-
-                <br/>
-                <button className="Submitbt" onClick={userDetails}>Submit</button>
+                <form onSubmit={userDetails}>
+                    <input type="text" placeholder="Enter your name"
+                           onChange={getUserName}/>
+                    <br/>
+                    <button className="Submitbt" type="submit">Submit</button>
+                </form>
             </div>
+            <ToastContainer />
         </section>
     );
 }
