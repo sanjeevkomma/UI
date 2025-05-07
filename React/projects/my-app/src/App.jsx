@@ -15,6 +15,7 @@ import ClickEvent from "./Events/ClickEvent";
 import WindowSizeTracker from "./EventListeners/WindowSizeTracker";
 import FormEvent from "./Events/FormEvent";
 import ArraySample from "./ArraySample";
+import TemplateLiteral from "./TemplateLiteral";
 
 
 let a = 'Apple';
@@ -42,6 +43,7 @@ function App() {
 
     return (
         <section>
+            <TemplateLiteral/>
             <ArraySample/>
             <FormEvent/>
             {/*
