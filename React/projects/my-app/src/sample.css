@@ -18,10 +18,26 @@ h1 {
 }
 
 .formSection {
-    background-color: black;
+    background-color: red;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 50vh;
+    width: 50vw;
 
+}
+
+.inputDiv {
+    width: 15rem;
+    height: 2rem;
+
+}
+
+.Submitbt {
+    padding: 1rem;
+    border: 2px solid red;
+    background-color: blue;
+    width: 15rem;
+    height: 2rem;
 }
