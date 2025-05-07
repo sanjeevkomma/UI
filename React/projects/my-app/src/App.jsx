@@ -14,6 +14,7 @@ import {useState} from 'react';
 import ClickEvent from "./Events/ClickEvent";
 import WindowSizeTracker from "./EventListeners/WindowSizeTracker";
 import FormEvent from "./Events/FormEvent";
+import ArraySample from "./ArraySample";
 
 
 let a = 'Apple';
@@ -41,6 +42,7 @@ function App() {
 
     return (
         <section>
+            <ArraySample/>
             <FormEvent/>
             {/*
 
