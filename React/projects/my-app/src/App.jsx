@@ -16,6 +16,8 @@ import WindowSizeTracker from "./EventListeners/WindowSizeTracker";
 import FormEvent from "./Events/FormEvent";
 import ArraySample from "./ArraySample";
 import TemplateLiteral from "./TemplateLiteral";
+import FetchUserPage from "./API/FetchUserPage";
+import AddEmployeePage from "./API/AddEmployeePage";
 
 
 let a = 'Apple';
@@ -43,10 +45,13 @@ function App() {
 
     return (
         <section>
+            <AddEmployeePage/>
+            {/*
+            <FetchUserPage/>
             <TemplateLiteral/>
             <ArraySample/>
             <FormEvent/>
-            {/*
+
 
             <ClickEvent/>
             <WindowSizeTracker/>
