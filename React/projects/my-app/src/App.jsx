@@ -8,8 +8,8 @@ import SecondComp from "./propsContainer/SecondComp";
 import ThirdComp from "./propsContainer/ThirdComp";
 import FourthComp from "./propsContainer/FourthComp";
 import Childcomp from "./propsContainer/ChildComp";
-import Counter from "./Hooks/Counter";
-import StateMgm from "./Hooks/StateMgm";
+import Counter from "./StateManagement/Counter";
+import StateMgm from "./StateManagement/StateMgm";
 import {useState} from 'react';
 import ClickEvent from "./Events/ClickEvent";
 import WindowSizeTracker from "./EventListeners/WindowSizeTracker";
@@ -18,6 +18,9 @@ import ArraySample from "./ArraySample";
 import TemplateLiteral from "./TemplateLiteral";
 import FetchUserPage from "./API/FetchUserPage";
 import AddEmployeePage from "./API/AddEmployeePage";
+import Circuit from "./ShortCircuit/Circuit";
+import Fruits from "./SpreadOperator/Fruits";
+import MultiState from "./StateManagement/MultiState";
 
 
 let a = 'Apple';
@@ -45,8 +48,11 @@ function App() {
 
     return (
         <section>
-            <AddEmployeePage/>
-            {/*
+            <MultiState/>
+            {/* <Fruits/>
+             <Circuit/>
+             <AddEmployeePage/>
+
             <FetchUserPage/>
             <TemplateLiteral/>
             <ArraySample/>
