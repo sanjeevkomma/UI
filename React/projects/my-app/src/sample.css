@@ -41,3 +41,19 @@ h1 {
     width: 15rem;
     height: 2rem;
 }
+
+.navSection {
+   border: 1px solid red;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
+}
+.navSection ul li{
+    display: inline;
+   list-style: none;
+    margin: 20px;
+    font-size: 2rem;
+    color: white;
+}

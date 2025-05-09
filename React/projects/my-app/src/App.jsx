@@ -21,6 +21,15 @@ import AddEmployeePage from "./API/AddEmployeePage";
 import Circuit from "./ShortCircuit/Circuit";
 import Fruits from "./SpreadOperator/Fruits";
 import MultiState from "./StateManagement/MultiState";
+import FirstPage from "./Routing/FirstPage";
+import SecondPage from "./Routing/SecondPage";
+import ThirdPage from "./Routing/ThirdPage";
+import FourthPage from "./Routing/FourthPage";
+import NavigationBar from "./Routing/NavigationBar";
+
+import {BrowserRouter} from "react-router-dom";
+
+import {Routes, Route} from "react-router-dom";
 
 
 let a = 'Apple';
@@ -48,8 +57,19 @@ function App() {
 
     return (
         <section>
-            <MultiState/>
-            {/* <Fruits/>
+            <BrowserRouter>
+                <NavigationBar/>
+                <Routes>
+                    <Route path="/first" element={<FirstPage/>}/>
+                    <Route path="/second" element={<SecondPage/>}/>
+                    <Route path="/third" element={<ThirdPage/>}/>
+                    <Route path="/fourth" element={<FourthPage/>}/>
+                </Routes>
+            </BrowserRouter>
+
+
+            {/* <MultiState/>
+             <Fruits/>
              <Circuit/>
              <AddEmployeePage/>
 
