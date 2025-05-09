@@ -8,8 +8,8 @@ import SecondComp from "./propsContainer/SecondComp";
 import ThirdComp from "./propsContainer/ThirdComp";
 import FourthComp from "./propsContainer/FourthComp";
 import Childcomp from "./propsContainer/ChildComp";
-import Counter from "./StateManagement/Counter";
-import StateMgm from "./StateManagement/StateMgm";
+import Counter from "./StateManagement_Hook/Counter";
+import StateMgm from "./StateManagement_Hook/StateMgm";
 import {useState} from 'react';
 import ClickEvent from "./Events/ClickEvent";
 import WindowSizeTracker from "./EventListeners/WindowSizeTracker";
@@ -20,7 +20,7 @@ import FetchUserPage from "./API/FetchUserPage";
 import AddEmployeePage from "./API/AddEmployeePage";
 import Circuit from "./ShortCircuit/Circuit";
 import Fruits from "./SpreadOperator/Fruits";
-import MultiState from "./StateManagement/MultiState";
+import MultiState from "./StateManagement_Hook/MultiState";
 import FirstPage from "./Routing/FirstPage";
 import SecondPage from "./Routing/SecondPage";
 import ThirdPage from "./Routing/ThirdPage";
@@ -30,6 +30,8 @@ import NavigationBar from "./Routing/NavigationBar";
 import {BrowserRouter} from "react-router-dom";
 
 import {Routes, Route} from "react-router-dom";
+import Delhi from "./StateManagement_Hook/Cities/Delhi";
+import {GiftProvider} from "./StateManagement_Hook/Context/ExampleContext";
 
 
 let a = 'Apple';
@@ -55,9 +57,15 @@ function App() {
 
     const result = sampleCondition ? <StateMgm/> : 'I am false statement';
 
+    const gift = "Apple Mobile";
+
     return (
         <section>
-            <BrowserRouter>
+            <GiftProvider>
+                <Delhi />
+            </GiftProvider>
+
+            {/* <BrowserRouter>
                 <NavigationBar/>
                 <Routes>
                     <Route path="/first" element={<FirstPage/>}/>
@@ -67,8 +75,7 @@ function App() {
                 </Routes>
             </BrowserRouter>
 
-
-            {/* <MultiState/>
+             <MultiState/>
              <Fruits/>
              <Circuit/>
              <AddEmployeePage/>
