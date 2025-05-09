@@ -15,16 +15,21 @@ const AddEmployeePage = () => {
 
     const empHandler = async (e) => {
         e.preventDefault();
-        console.log(empDetails);
-
-        const response = await fetch(add_emp_uri, {
-            method: "POST",
-            headers : {
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify(empDetails)
-        });
-
+        // console.log(empDetails);
+        try {
+            const response = await fetch(add_emp_uri, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(empDetails)
+            });
+            alert("employee added successfully");
+        }
+        catch (error) {
+            console.log(error);
+            alert("Error in adding employee" + error);
+        }
     }
 
     return (
