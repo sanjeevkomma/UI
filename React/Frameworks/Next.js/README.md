@@ -23,7 +23,6 @@
 * No need for React Router.
 * <img width="962" height="135" alt="image" src="https://github.com/user-attachments/assets/4c132a9c-c225-4c54-b95d-368100340a5a" />
 **2. Rendering Types**
-* Next.js supports multiple rendering strategies:
 | Type    | Meaning                         | Use case        |
 | ------- | ------------------------------- | --------------- |
 | **SSR** | Server-Side Rendering           | Dynamic content |
