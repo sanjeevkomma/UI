@@ -12,11 +12,11 @@
   * Manual setup for routing, performance, and API calls
 
 # What Next.js solves
-✔ Faster load times
-✔ Better SEO
-✔ File-based routing
-✔ Backend APIs inside frontend app
-✔ Easy deployment 
+* Faster load times
+* Better SEO
+* File-based routing
+* Backend APIs inside frontend app
+* Easy deployment 
  
 # Terminology
 
