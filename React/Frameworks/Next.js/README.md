@@ -61,6 +61,23 @@
 **6. API Routes (Backend inside Next.js)**
 * <img width="703" height="396" alt="image" src="https://github.com/user-attachments/assets/41c23b74-4490-4cd7-ba1c-4e16b507dcac" />
 
+**7. Navigation**
+* <img width="703" height="471" alt="image" src="https://github.com/user-attachments/assets/d98f0acb-a3de-4712-be81-d8213586d127" />
+
+**8. Environment Variables**
+* <img width="646" height="216" alt="image" src="https://github.com/user-attachments/assets/ecc1a354-5c14-49d6-9b5d-486861288991" />
+
+**9. Styling Options**
+* <img width="646" height="167" alt="image" src="https://github.com/user-attachments/assets/4e30cc87-7cac-4ddb-aa84-39c09f4c013d" />
+
+**10. Build & Run**
+```bash
+npx create-next-app
+npm run dev
+npm run build
+npm start
+```
+
  
 # Terminology
 
