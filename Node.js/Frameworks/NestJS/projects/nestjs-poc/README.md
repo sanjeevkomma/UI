@@ -101,3 +101,4 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 # Run & Endpoints
 * npm run start:dev
 * http://localhost:3000/
+* http://localhost:3000/orders
