@@ -1,7 +1,7 @@
 # ToRead
 * React Native → Cross-platform framework (Android + iOS, one codebase)
 # React Native vs Kotlin
-* | Feature           | React Native      | Kotlin                    |
+| Feature           | React Native      | Kotlin                    |
 | ----------------- | ----------------- | ------------------------- |
 | Type              | Framework         | Language (native Android) |
 | Platform          | Android + iOS     | Android only              |
