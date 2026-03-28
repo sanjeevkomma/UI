@@ -12,7 +12,7 @@
 | Learning Curve    | Easy–Medium       | Easy (for Java devs)      |
 
 # When to Choose React Native
-👉 Pick **React Native if you want:
+* Pick React Native if you want:
     * One app for Android + iOS
     * Faster development
     * Startup / MVP building
