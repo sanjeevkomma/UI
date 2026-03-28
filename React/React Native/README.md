@@ -17,3 +17,18 @@
     * Faster development
     * Startup / MVP building
     * Quick side projects
+* Example use cases:
+    * E-commerce apps
+    * Social apps
+    * MVP products
+ 
+# When to Choose Kotlin
+* Pick **Kotlin if you want:
+    * Best performance
+    * Deep Android features
+    * Long-term enterprise apps
+    * Stable career growth
+* Example use cases:
+    * Banking apps
+    * High-performance apps
+    * Large-scale Android systems
